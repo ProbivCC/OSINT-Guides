@@ -17,13 +17,15 @@
 
 ---
 
-## 🌐 Рабочие веб-зеркала
+### 🌐 Рабочие веб-зеркала и ресурсы
 
 | Ресурс | Ссылка | Статус |
 | :--- | :--- | :--- |
-| **Единый хаб ссылок** | [link-probiv.org](https://link-probiv.org/) | `Active` |
-| **Основной домен** | [probiv.dev](https://probiv.dev/) | `Online` |
-| **Запасное зеркало #1** | [probiv.work](https://probiv.work/) | `Online` |
-| **Запасное зеркало #2** | [probiv.one](https://probiv.one/) | `Online` |
-| **Запасное зеркало #3** | [probiv.space](https://probiv.space/) | `Online` |
-| **Tor / Darknet зеркало** | [probiv.onion](http://probiv7zf4357jpj7byfs72a3oa7g25hidbip7kpvpgcx2orolxsi4ad.onion/) | `Online` |
+| **Основной сайт** | [link-probiv.org](https://link-probiv.org) | Active |
+| **Зеркало (.dev)** | [probiv.dev](https://probiv.dev) | Active |
+| **Зеркало (.work)** | [probiv.work](https://probiv.work) | Active |
+| **Зеркало (.one)** | [probiv.one](https://probiv.one) | Active |
+| **Зеркало (.space)** | [probiv.space](https://probiv.space) | Active |
+| **TOR Зеркало** | [probiv.onion](http://probiv7zf4357jpj7byfs72a3oa7g25hidbip7kpvpgcx2orolxsi4ad.onion) | Active |
+| **Telegram Bot (Поиск)** | [@ProExpresss_Bot](https://t.me/ProExpresss_Bot) | Active |
+| **Telegram Bot (Ссылки)** | [@forum2link_bot](https://t.me/forum2link_bot) | Active |
