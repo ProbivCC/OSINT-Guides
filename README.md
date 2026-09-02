@@ -27,6 +27,7 @@
 * 📍 **[Как вас отслеживают по Геолокации](./articles/location-tracking-privacy.md)**
 * 🎯 **[Как реклама узнаёт о вас всё (и почему телефон вас не подслушивает)](./articles/ad-tracking-and-privacy.md)**
 * 🔒 **[Безопасность Госуслуг: как защитить аккаунт от мошенников и кредитов](./articles/gosuslugi-security-guide.md)**
+* 💳 **[Кредит без вашего ведома: 4 схемы мошенников и как от них защититься](./articles/credit-fraud-protection.md)**
 
 ---
 
