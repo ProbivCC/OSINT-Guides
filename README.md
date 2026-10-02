@@ -49,6 +49,7 @@
 * 🏃‍♂️ **[Фитнес-трекеры и OSINT: как утренняя пробежка раскрывает секретные базы и личную жизнь](./articles/fitness-trackers-osint-guide.md)**
 * 🏠 **[Умный дом и приватность: что о вас знают колонки, телевизоры и пылесосы](./articles/smart-home-privacy-guide.md)**
 * 📱 **[QR-коды и безопасность: как работает Quishing и скрытый сбор данных](./articles/qr-code-scams-guide.md)**
+* 👁️ **[Открытые камеры и OSINT: кто смотрит за вами через объективы по всему миру](./articles/unsecured-cameras-osint-guide.md)**
 
 ---
 
